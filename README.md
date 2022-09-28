@@ -36,7 +36,7 @@ The figure depicts using big bubbles that there are more drivers in the urban ar
 
 ### The total fare by city type:
 
-![total fare](https://user-images.githubusercontent.com/111387025/192874794-771d03eb-f55f-4f24-9f84-ebcf3ae5ab1e.png)
+![total_fare](https://user-images.githubusercontent.com/111387025/192906284-797efbbe-6a1f-4e5e-aee5-8258a1dfbd60.png)
 The above line chart shows the data from January 2019 to April 2019. It is evitable from the chart that the weekly total fares were the highest in the urban areas followed by the suburban areas and the lowest in the rural areas.
 
 ## Summary
